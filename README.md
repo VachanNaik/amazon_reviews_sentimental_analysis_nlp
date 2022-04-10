@@ -2,7 +2,7 @@
 
 **Business Problem.** Your task is to *build models which can identify the sentiment (positive or negative) of each of these non-rated interactions*.
 
-**Analytical Context.** The data is a set of reviews in CSV file format. We will combine some text processing procedures to be learnt in this session and classification models to develop algorithms capable of classifying interactions by sentiment.
+**Analytical Context.** The data is a set of reviews in CSV file format. We will combine some text processing procedures  and classification models to develop algorithms capable of classifying interactions by sentiment.
 
 Will be doing the following in this case:
 1. Read and analyze the input text data and the corresponding response variables (ratings)
