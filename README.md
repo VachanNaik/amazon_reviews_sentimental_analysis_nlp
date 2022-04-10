@@ -12,3 +12,12 @@ Will be doing the following in this case:
 
 Text visualization using word clouds (word clouds )
 As visualization is crucial for numerical data, it is also important for text data. However, the text does not lend itself to histogram charts or scatterplots, as numerical data does. In such cases, the word clouds are a common and very useful tool to appreciate the text distribution.
+
+Text preprocessing and normalization is crucial before building a proper NLP model. Some of the important steps are:
+
+1. Converting words to lower/upper case
+2. Removing special characters
+3. Removing stopwords and high/low-frequency words
+4. Stemming/lemmatization
+
+Building machine learning model on the pre-proceesed text data, by implimemting regression and TFIDF method to calculating the best accuracy.
